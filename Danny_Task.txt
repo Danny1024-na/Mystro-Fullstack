@@ -1,0 +1,6 @@
+wello World
+
+git config --global user.username Danny Nasra
+git config --global user.email "danina964@gmail.com"
+
+zweite Versuch
